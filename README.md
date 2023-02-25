@@ -1,2 +1,2 @@
-# Recon_Scripts
+# Recon Scripts
 Purpose to make recon fast
