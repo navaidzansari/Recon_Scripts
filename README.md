@@ -16,3 +16,7 @@ Searches for SQLi and XSS vulnerabilities in Dirb scan results.
 - Dirb
 - Requests
 - Beautiful Soup 4
+
+## Disclaimer:
+
+The code provided is for educational and informational purposes only. The use of this code is at the user's own risk. The author and publisher of this code make no representations or warranties of any kind with respect to the accuracy or completeness of the code. The author and publisher of this code disclaim all liability for any direct, indirect, incidental, or consequential damages arising from the use of or reliance on the code. Users are solely responsible for ensuring that their use of the code complies with all applicable laws and regulations.
