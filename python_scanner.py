@@ -63,7 +63,7 @@ if open_hosts:
                     print(f"XSS vulnerability found in {full_url}")
     with open('nikto_scan.txt', 'r') as nikto_scan_file:
         for line in nikto_scan_file:
-        if "OSVDB" in line:
-            print(f"Vulnerability found in Nikto scan: {line.strip()}")
+            if "OSVDB" in line:
+                print(f"Vulnerability found in Nikto scan: {line.strip()}")
 
 print("Done.")
